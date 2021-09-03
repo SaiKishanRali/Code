@@ -1,9 +1,20 @@
-### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
-
-
+<div align="center">
+<h1> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="100px">
+  H! there      
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="100px">  </h1>
+</div>
 
 <div align="center">
-  <img width="70%" src="https://github.com/SaiKishanRali/Code/blob/main/Images/sch_exp3.png" alt="cover" />
+  <h4><i>Ways to reach me</i></h4>
+</div>  
+<div  align="center">
+  <a href="https://www.linkedin.com/in/sai-kishan-rali/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn">
+  </a>
+
+   <a href="mailto:rali.sai.kishan@gmail.com" mailto="rali.sai.kishan@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C" alt="Gmail">
+  </a>
 </div>
 
 
@@ -35,19 +46,15 @@
 
 - Description:
   - Main File -  File used on the ESP32
+    - Data_Collection.ino - Code used to collect the walking patterns from the participants (Chapter 4)
+    - FNSW.ino - Implementation of EWMA filter, peak function, and FNSW data segmentation (Chapter 5 - Straight forward data analysis method)
   - MATLAB Code - File used to visualize the output recorded for the specific Main File
-
-<!-- <h2><i>Ways to contact me:</i></h2> -->
-## Ways to reach me
-<div  align="center">
-
-  <a href="https://www.linkedin.com/in/sai-kishan-rali/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn">
-  </a>
-
-   <a href="mailto:rali.sai.kishan@gmail.com" mailto="rali.sai.kishan@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C" alt="Gmail">
-  </a>
+    - Data_Collection.m - Code used to visualize the walking patterns recorded from the participants
+    - FNSW.m - Code used to visualize the straight forward data analysis method implementation 
+- Schematic diagram   
+<div align="center">
+  <img width="70%" src="https://github.com/SaiKishanRali/Code/blob/main/Images/sch_exp3.png" alt="cover" />
 </div>
+<!-- <h2><i>Ways to contact me:</i></h2> -->
 
 
