@@ -1,8 +1,10 @@
-### Hi there 👋
+### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 
-<!-- <div align="center">
-  <img width="100%" src="https://github.com/oussamabouchikhi/oussamabouchikhi/blob/master/assets/cover.png" alt="cover" />
-</div> -->
+
+
+<div align="center">
+  <img width="70%" src="https://github.com/SaiKishanRali/Code/blob/main/Images/sch_exp3.png" alt="cover" />
+</div>
 
 
 <!-- <table>
@@ -20,10 +22,16 @@
         <img width="70%" src="https://github.com/oussamabouchikhi/oussamabouchikhi/blob/master/assets/skills.png" alt="cover" />
       </td>
     </tr>
-  </tbody>
+  </tbody> -->
   
-</table> -->
+</table>
 </div>
+
+### Folder Structure
+| Folder Name | Main file | MATLAB Code |
+| --- | --- | --- |
+| Data Collection | Data_Collection.ino | Data_Collection.m |
+| FNSW | FNSW.ino | FNSW.m |
 
 ## About me
 
