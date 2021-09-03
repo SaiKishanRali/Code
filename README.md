@@ -28,17 +28,17 @@
 </div>
 
 ### Folder Structure
-| Folder Name | Main file | MATLAB Code |
+| Folder Name | Main File | MATLAB Code |
 | --- | --- | --- |
 | Data Collection | Data_Collection.ino | Data_Collection.m |
 | FNSW | FNSW.ino | FNSW.m |
 
-## About me
+- Description:
+  - Main File -  File used on the ESP32
+  - MATLAB Code - File used to visualize the output recorded for the specific Main File
 
-
-
-
-<h2><i>Ways to contact me:</i></h2>
+<!-- <h2><i>Ways to contact me:</i></h2> -->
+## Ways to reach me
 <div  align="center">
 
   <a href="https://www.linkedin.com/in/sai-kishan-rali/" target="_blank">
