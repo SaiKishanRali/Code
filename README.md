@@ -52,9 +52,19 @@
     - Data_Collection.m - Code used to visualize the walking patterns recorded from the participants
     - FNSW.m - Code used to visualize the straight forward data analysis method implementation 
 - Schematic diagram   
-<div align="center">
-  <img width="70%" src="https://github.com/SaiKishanRali/Code/blob/main/Images/sch_exp3.png" alt="cover" />
-</div>
+   <div align="left">
+      <img width="70%" src="https://github.com/SaiKishanRali/Code/blob/main/Images/sch_exp3.png" alt="cover" />
+     </div>
+- Sensors position on the body
+   <div align="left">
+      <img width="20%" src="https://github.com/SaiKishanRali/Code/blob/main/Images/2senspng.png" alt="cover" />
+     </div>
+- IMU orientations
+  - Accelerometer orientation (a)
+  - Gyroscope orientation (c)
+       <div align="left">
+         <img width="50%" src="https://github.com/SaiKishanRali/Code/blob/main/Images/sensor_pos_big.png" alt="cover" />
+        </div>
 <!-- <h2><i>Ways to contact me:</i></h2> -->
 
 
