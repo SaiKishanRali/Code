@@ -44,6 +44,8 @@
 | Data Collection | Data_Collection.ino | Data_Collection.m |
 | FNSW | FNSW.ino | FNSW.m |
 
+<!-- [**𝚎𝚖𝚘𝚓𝚒**](https://github.com/Raymo111/emoji) -->
+
 - Description:
   - Main File -  File used on the ESP32
     - Data_Collection.ino - Code used to collect the walking patterns from the participants (Chapter 4)
