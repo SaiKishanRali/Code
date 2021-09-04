@@ -1,5 +1,5 @@
 <div align="center">
-<h1> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="100px">
+<h1>  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="100px">
   H! there      
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="100px">  </h1>
 </div>
@@ -8,6 +8,7 @@
   <h4><i>Ways to reach me</i></h4>
 </div>  
 <div  align="center">
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="10px">
   <a href="https://www.linkedin.com/in/sai-kishan-rali/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn">
   </a>
@@ -15,6 +16,7 @@
    <a href="mailto:rali.sai.kishan@gmail.com" mailto="rali.sai.kishan@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C" alt="Gmail">
   </a>
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="10px">
 </div>
 
 
