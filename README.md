@@ -1,7 +1,11 @@
 <div align="center">
-<h1>  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="100px">
+<h1>  
+  <img src="https://github.com/raghavk16/raghavk16/blob/master/coderman.gif" width="100px">
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="80px">
   H! there      
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="100px">  </h1>
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="80px"> 
+ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="70">
+</h1>
 </div>
 
 <div align="center">
