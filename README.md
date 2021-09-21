@@ -59,7 +59,8 @@
     - FNSW.ino - Implementation of EWMA filter, peak function, and FNSW data segmentation (Chapter 5 - Straight forward data analysis method)
   - MATLAB Code - File used to visualize the output recorded for the specific Main File
     - Data_Collection.m - Code used to visualize the walking patterns recorded from the participants
-    - FNSW.m - Code used to visualize the straight forward data analysis method implementation 
+    - FNSW.m - Code used to visualize the straight forward data analysis method implementation
+    - Data_combiningV2.m - Code used to combine all the data sets of each candidate into one file to use in Unico-GUI (machine learning) 
 - Schematic diagram   
    <div align="left">
       <img width="70%" src="https://github.com/SaiKishanRali/Code/blob/main/Images/sch_exp3.png" alt="cover" />
