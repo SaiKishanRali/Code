@@ -58,7 +58,7 @@
 
 <!-- [**Link**](http://purl.utwente.nl/essays/88626) to report -->
   
-  </a>
+
 - Description:
   - Main File -  File used on the ESP32
     - Data_Collection.ino - Code used to collect the walking patterns from the participants (Chapter 4)
