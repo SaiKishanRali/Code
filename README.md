@@ -53,7 +53,8 @@
 <!-- [**Data_Collection.ino**](https://github.com/SaiKishanRali/Code/blob/main/Images/Readme.txt) -->
 <!-- [**𝚎𝚖𝚘𝚓𝚒**](https://github.com/Raymo111/emoji) -->
 
-- Link to report:   <a href="http://purl.utwente.nl/essays/88626" target="_blank">
+- [**Link**](http://purl.utwente.nl/essays/88626) to report
+  
   </a>
 - Description:
   - Main File -  File used on the ESP32
