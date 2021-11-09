@@ -54,7 +54,6 @@
 <!-- [**𝚎𝚖𝚘𝚓𝚒**](https://github.com/Raymo111/emoji) -->
 
 - Link to report:   <a href="http://purl.utwente.nl/essays/88626" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn">
   </a>
 - Description:
   - Main File -  File used on the ESP32
