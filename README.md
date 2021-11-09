@@ -22,7 +22,10 @@
   </a>
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="10px">
 </div>
-
+<div align="center">
+  <h4><i>Link to thesis report:</i></h4> http://purl.utwente.nl/essays/88626 
+  <h4><i>Presentation:</i></h4> https://github.com/SaiKishanRali/Code/blob/main/Wearable%20Coach%20For%20Symmetric%20Walking_v4.pdf
+</div> 
 
 <!-- <table>
   <thead>
@@ -53,7 +56,7 @@
 <!-- [**Data_Collection.ino**](https://github.com/SaiKishanRali/Code/blob/main/Images/Readme.txt) -->
 <!-- [**𝚎𝚖𝚘𝚓𝚒**](https://github.com/Raymo111/emoji) -->
 
-- [**Link**](http://purl.utwente.nl/essays/88626) to report
+<!-- [**Link**](http://purl.utwente.nl/essays/88626) to report -->
   
   </a>
 - Description:
