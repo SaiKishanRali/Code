@@ -26,10 +26,10 @@ for i = 1:candidate
         filename = strcat(filename,string(i),string(j));
         
         if pick == 1
-            path = 'D:\Masters-eBooks\Thesis_Matlab\ESPV3.0\Healthy\Adjusted_Data\Together\';
+            path = ' ';
         end
         if pick == 2
-            path = 'D:\Masters-eBooks\Thesis_Matlab\ESPV3.0\Unhealthy\Adjusted_Data\Together\';
+            path = ' ';
         end
         
         path = strcat(path,filename,'.txt');
